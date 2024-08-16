@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    /* background-image: url(webdev/images/images.jpeg); */
+}
+#menu
+{
+    height: 10%;
+    background-color: aliceblue;
+}
+#logo
+{
+    width: 200px;
+    float: left;
+}
+#logo img
+{
+    height: 55px ;
+    margin: 6px;
+    margin-left:50px ;
+}
+#name
+{
+    float: left;
+    color: black;
+    font-size: 40px;
+    margin-top: 8px;
+}
+#m1
+{
+height:50px;
+width:700px;
+/* border:1px solid black; */
+float:right;
+margin-top: 7px;
+}
+#m1 ul
+{
+list-style-type:none;
+}
+#m1 ul li
+{
+display:inline;
+/* border:1px solid; */
+padding:15px;
+}
+#m1 ul li a
+{
+color:grey;
+text-decoration:none;
+}
+#m1 ul li:hover
+{
+background-color:skyblue;
+}
+#m2
+{
+height:50px;
+width:294px;
+/* border:1px solid white; */
+float:right;
+margin-top: 6px;
+}
+#m2 input
+{
+margin-left:20px;
+margin-top:5px;
+height: 40px;
+
+}
+img{
+    margin-top: 7px;
+}
+#image img{
+    margin: 20px;
+    
+
+}
+#footer
+{
+    height: 300px;
+    
+    background-color: rgb(130, 78, 38);
+}
